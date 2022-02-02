@@ -48,6 +48,16 @@ h1 {
     letter-spacing: -1px;
   }
 }
+h2  {
+  position: absolute;
+  top: 30px;
+  left: 60px;
+  font-family: "Roboto", sans-serif;
+  font-size: 5em;
+  margin: 0;
+  color: black;
+  line-height: 0.78em;
+  letter-spacing: -1px;
 
 a {
   position: absolute;
