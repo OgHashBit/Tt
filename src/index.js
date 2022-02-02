@@ -109,23 +109,6 @@ function App() {
       <h1>
        DiamondBIT
       </h1>
-      <h2>
-      Evolution is here!
-      Diamonds are now also available as NFTs.
-      NFT is used to confirm ownership of diamonds
-      So every holder of can request his identical 
-      off-chain diamond. Every minted diamond will
-      be unique by shape, color, clarity and carat 
-      which will be randomly generated until 
-      DiamondBIT Minter is live. We guarantee all
-      off-chain diamonds are natural and linked
-      with GIA certificate so once you purchase NFT
-      you can check for yourself. All users requesting
-      off-chain diamonds will need to pay small fee
-      for delivery and to verify ownership. Remember 
-      that off-chain diamond can be claimed once per
-      NFT.
-      </h2>
       <a href="rarible.com">BUY DIAMONDS NOW</a>
       </>
   )
