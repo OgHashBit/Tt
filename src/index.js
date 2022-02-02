@@ -129,8 +129,8 @@ function App() {
       Become proud owner today!
         <br/ >
       </h2>
-      </>
       <a href="rarible.com">BUY DIAMONDS NOW</a>
+      </>
   )
 }
 
