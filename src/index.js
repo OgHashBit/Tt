@@ -108,8 +108,6 @@ function App() {
       </Canvas>
       <h1>
        DiamondBIT
-        <br />
-
       </h1>
       <h2>
       Evolution is here!
@@ -127,7 +125,10 @@ function App() {
       for delivery and to verify ownership. Remember 
       that off-chain diamond can be claimed once per
       NFT. 
-
+      <h2>
+      Become proud owner today!
+        <br/ >
+      </h2>
       
       <a href="rarible.com">BUY DIAMONDS NOW</a>
     </>
